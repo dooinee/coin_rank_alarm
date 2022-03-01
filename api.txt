@@ -1,0 +1,2 @@
+# Enter your python-binance API key here
+# Enter your python-binance API secret here
